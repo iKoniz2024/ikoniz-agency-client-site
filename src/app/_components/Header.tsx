@@ -69,7 +69,7 @@ function Header() {
       <div className="max-w-[1350px] mx-auto px-4 sm:px-6 lg:px-10">
         <div className="flex justify-between items-center py-5 font-medium">
           <Link href="/">
-            <Image src="/logo.png" alt="logo" width={90} height={44} />
+            <Image src="/logo.png" alt="logo" width={130} height={150} />
           </Link>
 
           {/* Mobile Menu */}
