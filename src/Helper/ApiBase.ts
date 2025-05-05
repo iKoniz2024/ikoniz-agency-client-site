@@ -1,0 +1,1 @@
+export const ApiBaseMysql = "https://gt.codecanvascreation.com";
