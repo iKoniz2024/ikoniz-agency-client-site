@@ -22,8 +22,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Tour Geeky",
-  description: "Tour Geeky app",
+  title: "Study and Tourism",
+  description: "Ikoniz Agency",
 };
 
 export default function RootLayout({

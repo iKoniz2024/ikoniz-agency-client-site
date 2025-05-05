@@ -2,7 +2,7 @@ import { getProductList } from "@/utils/get/get.action";
 import Home from "./home";
 
 export const metadata = {
-  title: "Tour Geeky | Explore Tours & Activities",
+  title: "Ikoniz Agency | Study and Tourism",
   description:
     "Discover unforgettable cultural experiences, trending tours, and top sights with Entrada. Book your next adventure today.",
   keywords: [
